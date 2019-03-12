@@ -6,7 +6,7 @@
 
 Friendly overlays features from all your friends to create an image of what an average person in your friend group looks like.
 
-Made for HackRU 2019.
+Best Solo Hack Commended in HackRU 2019.
 
 ### Installation
 
