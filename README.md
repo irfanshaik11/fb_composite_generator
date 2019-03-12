@@ -22,9 +22,6 @@ $ pip install -r requirements.txt
 $ python run.py
 ```
 
-### Benefits of the Project
-There are limited size datasets available for research purposes that are properly tagged with personal data such as a user's age, gender, location as well as other metadata. This app will be released on Facebook as a game users could play to find out what their average friends look like, and the image data would be sent along with metadata tags would be collected in a database for use in research.
-
 ### Parts to the Project
   - Selenium Web Scraper
   - Facebook Graphs API 
