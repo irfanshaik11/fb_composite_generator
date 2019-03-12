@@ -31,7 +31,7 @@ There are limited size datasets available for research purposes that are properl
   - OpenCV + CNN Face Overlayer
  
 ### Selenium Web Scraper
-  - Facebook Graphs API does not allow the retrieval of user friend lists unless the app undergos review by Facebook. This workaround asks a user to enter their account and navigate to their Facebook Friends List so the app can retrieve user's friend's IDs.
+  - Facebook Graphs API does not allow the retrieval of user friend lists unless the app undergoes review by Facebook. This workaround asks a user to enter their account and navigate to their Facebook Friends List so the app can retrieve user's friend's IDs.
  - The web scraper uses chrome binaries to open a webpage where the user navigates to list of friends
  - This list of friends is downloaded and stored
 
