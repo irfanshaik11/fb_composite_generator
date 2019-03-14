@@ -2,7 +2,7 @@
 
 [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
 
-Friendly overlays features from all your friends to create an image of what an average person in your friend group looks like.
+Friendly overlays features from all your facebook friends to create an image of what an average person in your friend group looks like.
 
 Best Solo Hack Commended in HackRU 2019.
 
