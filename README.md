@@ -4,8 +4,6 @@
 
 Friendly overlays features from all your facebook friends to create an image of what an average person in your friend group looks like.
 
-Best Solo Hack Commended in HackRU 2019.
-
 ### Installation
 
 Friendly requires [OpenCV](https://opencv.org/) v3 to run.
