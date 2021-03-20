@@ -13,7 +13,7 @@ docopt==0.6.2
 facemorpher==5.2.1
 html2text==2018.1.9
 idna==2.8
-Jinja2==2.10
+Jinja2==2.11.3
 kiwisolver==1.0.1
 lxml==4.3.2
 MarkupSafe==1.1.1
