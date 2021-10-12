@@ -21,7 +21,7 @@ matplotlib==3.0.3
 Morphing==0.1.dev0
 networkx==2.2
 numpy==1.16.2
-opencv-python==3.4.5.20
+opencv-python==3.4.7.28
 openface==0.2.1
 packaging==19.0
 pandas==0.24.1
