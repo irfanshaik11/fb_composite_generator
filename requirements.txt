@@ -20,7 +20,7 @@ MarkupSafe==1.1.1
 matplotlib==3.0.3
 Morphing==0.1.dev0
 networkx==2.2
-numpy==1.16.2
+numpy==1.22.0
 opencv-python==3.4.5.20
 openface==0.2.1
 packaging==19.0
